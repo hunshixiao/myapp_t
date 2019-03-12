@@ -1,0 +1,39 @@
+/**index.wxss**/
+.dlt{
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+}
+.imgs image{
+  width:60px;
+  height:60px;
+}
+.list{
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+}
+.jia{
+  display:flex;
+  justify-content:space-between;
+  margin:0 10px;
+  line-height:40px;
+}
+.dlts{
+  display:flex;
+  overflow-x:auto;
+}
+.dlts image{
+  width:140px;
+  height:100px;
+}
+.tst{
+  display:flex;
+  flex-direction:column;
+  justify-content: space-around;
+  align-items:center;
+}
+.lis{
+  color:#ccc;
+  font-size:14px;
+}
